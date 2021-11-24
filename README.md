@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lekabir
-- 👀 I’m interested in finding new talent
-- 🌱 I’m currently learning different coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by private message
+- 👀 I’m interested in finding new talents
+- 🌱 I’m currently learning different coding like Java on Eclipse
+- 💞️ I’m looking to collaborate on finding new talents
+- 📫 Reach me via private message
 
 <!---
 lekabir/lekabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
